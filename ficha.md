@@ -43,9 +43,9 @@ Un video recomendado:
  
 ###### 🖼️ Imagen  
 
-![Imagen de ejemplo](https://imagenpng.com/wp-content/uploads/2015/09/imagenes-png.png)  
+![Imagen de ejemplo](https://i.pinimg.com/736x/03/cf/18/03cf187d88bb4f4fded6b85d73bc02d9.jpg)  
 
-![Mi imagen](img/https://imagenpng.com/wp-content/uploads/2015/09/imagenes-png.png)  
+![Mi imagen](img/https://i.pinimg.com/736x/03/cf/18/03cf187d88bb4f4fded6b85d73bc02d9.jpg)  
 
 ###### 🌈 Emojis con intención  
 
